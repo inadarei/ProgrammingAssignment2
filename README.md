@@ -1,3 +1,17 @@
+## Solution Explanation:
+
+### Installation of the Solution:
+
+1. In RStudio install `testthat package`
+2. Check your working directory location with `getwd`
+3. Set your working directory location to setwd("your/path/to/ProgrammingAssignment2/") so that
+   the folder you indicate contains `tests` folder and that tests folder contains `testthat` folder.
+4. Run tests with: `> test_dir("tests/testthat/")`
+
+
+## Original Task:
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
